@@ -11,6 +11,8 @@ La hibridación consiste en la fusión de medios como, imágenes, modelos 3D, te
 
 ## El caso de IKEA Place
 
+![Foto representatiba de IKEA Place](https://techcrunch.com/wp-content/uploads/2017/09/ikea-place.jpg)
+
 IKEA Place es una aplicación oficial de la gran marca de venta de muebles IKEA, la cual consiste en utilizar la realidad mixta y su gran catálogo de muebles para ofrecer herramientas y facilitar la compra de estos a sus clientes; además de ser una forma más innovadora y atractiva de mostrar sus productos a las personas. Gracias a esta aplicación y la cámara de nuestro dispositivo, podremos ver nuestra habitación y añadirle muebles de la marca como si de magia se tratara; una manera muy útil de tener en cuenta las medidas, los colores y el aspecto de los muebles sin tener que comprarlos y ponerlos antes.
 
 Este formato se empezó a utilizar en los teléfonos inteligentes en la última década y se popularizo gracias a Pokémon GO, un videojuego que dio a conocer las queridas criaturas de la franquicia Pokémon a todo el mundo de una forma mucho más inmersiva.
