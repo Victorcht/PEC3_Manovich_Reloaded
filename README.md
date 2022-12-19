@@ -25,6 +25,8 @@ Dejando de lado la parte más técnica, vamos a resumir la idea de IKEA. Como ya
 
 ## El caso de Kahoot
 
+![Ilustración representativa de Kahoot](https://2.bp.blogspot.com/-0fuPye4gAvk/W-407GSvrRI/AAAAAAAAPM0/r_W4CgeDEpAMhSjN-cpN4TbOkL7g74yaACLcBGAs/s1600/kahoot.png)
+
 Si habéis sido estudiantes durante los últimos años seguramente conoceréis Kahoot. Kahoot es una plataforma online que permite crear y realizar cuestionarios de una forma más divertida y parecida a los videojuegos. Actualmente, es una herramienta que se suele utilizar en las clases y permite a los profesores evaluar a sus alumnos de una forma más atractiva para ellos.
 
 Si profundizamos en el funcionamiento, Kahoot permite crear cuestionarios públicos con preguntas, imágenes y hasta cuatro respuestas posibles por pregunta. Estas pruebas, luego las puede utilizar el mismo creador u otros profesores, y esto permite que haya gran cantidad de cuestionarios sobre diversos temas y para todas las edades en la plataforma.
