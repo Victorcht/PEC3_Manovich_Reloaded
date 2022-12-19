@@ -38,6 +38,9 @@ Como podéis ver, Kahoot es una interesante propuesta que fusiona los cuestionar
 ## Bibliografía y Webgrafía
 
 Manovich, Lev. (2013). _El software toma el mando_
-UOC, Fundamentos y evolución de la multimedia (2014) _http://multimedia.uoc.edu/blogs/fem/es/tema/fundamentals/_.
-PsicologíaSocial.EU, Conocimiento Abierto y Tecnología (2014) _http://juan.psicologiasocial.eu/conocimiento-y-tecnologia_.
+
+UOC, Fundamentos y evolución de la multimedia (2014) _http://multimedia.uoc.edu/blogs/fem/es/tema/fundamentals/_
+
+PsicologíaSocial.EU, Conocimiento Abierto y Tecnología (2014) _http://juan.psicologiasocial.eu/conocimiento-y-tecnologia_
+
 Wikipedia, Kahoot (2022) _https://es.wikipedia.org/wiki/Kahoot!_
