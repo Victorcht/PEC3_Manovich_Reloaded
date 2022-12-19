@@ -34,3 +34,7 @@ Sin embargo, lo más interesante es cómo se realizan los cuestionarios en sí, 
 No obstante, gracias a ser compatible con dispositivos móviles, es interesante ver como hay personas que han sido capaces de incorporarlo en otros medios como el de las actuaciones o el de las experiencias presenciales, aprovechando estos cuestionarios para interactuar con el público y ofrecer nuevas experiencias más originales e interactivas; una forma muy inteligente de hibridar medios para crear nuevas experiencias.
 
 Como podéis ver, Kahoot es una interesante propuesta que fusiona los cuestionarios comunes, con las mecánicas de los videojuegos online, y esto ha generado nuevas formas y herramientas de evaluación que ayudan mucho a los profesores y a los alumnos hoy en día; además de ser un potente medio para complementar con otros. Kahoot es una plataforma que se ha convertido en una herramienta imprescindible para muchos profesores, con la que pueden ir evaluando durante el curso a sus alumnos sin tener que hacer exámenes; exámenes que muchas veces no representan correctamente el nivel y el grado de involucración de sus estudiantes. Por esto, considero Kahoot una gran herramienta que aporta a un sector bastante delicado como los estudios y un buen ejemplo de caso de hibridación de medios con un gran propósito.
+
+## Bibliografía y Webgrafía
+
+Manovich, Lev. (2013). _El software toma el mando_
