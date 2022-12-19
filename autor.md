@@ -1,8 +1,8 @@
-*Autor:* Víctor Chillón Torres
+**Autor:** Víctor Chillón Torres
 
-*Asignatura: * Cultura Digital
+**Asignatura:** Cultura Digital
 
-*Grado: * Técnicas de Interacción Digital y Multiemdia
+**Grado:** Técnicas de Interacción Digital y Multiemdia
 
-*Universidad: * UOC
+**Universidad:** UOC
 
